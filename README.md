@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krajp54&label=Profile%20views&color=0e75b6&style=flat" alt="krajp54" /> </p>
 
-- 🌱 I’m currently expand my skills in **.NET, NestJS, Flask**
+- 🌱 I’m currently expanding my skills in **.NET, NestJS, Flask**
 
 - 📫 How to reach me **rodriguezjp4@gmail.com**
 
