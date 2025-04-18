@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo Rodríguez</h1>
-<h3 align="center">A student of Computer Engineering at <a href="https://www.epn.edu.ec/">EPN</a> (Quito, Ecuador). Passionate about music and programming.</h3>
+<h3 align="center">A Computer's Engineer graduated at <a href="https://www.epn.edu.ec/">EPN</a> (Quito, Ecuador). Passionate about music and programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krajp54&label=Profile%20views&color=0e75b6&style=flat" alt="krajp54" /> </p>
 
-- 🌱 I’m currently learning **Next.JS, Flask, C++**
+- 🌱 I’m currently expand my skills in **.NET, NestJS, Flask**
 
 - 📫 How to reach me **rodriguezjp4@gmail.com**
 
